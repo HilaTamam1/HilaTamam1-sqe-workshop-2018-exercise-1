@@ -26,7 +26,6 @@ function checkType(element) {
         parseVariableDeclaration(element);
     else
         OtherTypes(element);
-        
 }
 // types
 function OtherTypes(element) {
